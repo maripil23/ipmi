@@ -1,3 +1,4 @@
+//María Pilar Fernández Comisión 1
 PImage fondo;
 void setup () {
   size(800, 400); 
